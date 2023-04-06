@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xxqfamous.github.io/docs/categories/</loc>
+    <loc>https://xxqfamous.github.io/docs/post/first/</loc>
+    <lastmod>2023-04-06T09:40:50+08:00</lastmod>
   </url><url>
     <loc>https://xxqfamous.github.io/docs/</loc>
+    <lastmod>2023-04-06T09:40:50+08:00</lastmod>
+  </url><url>
+    <loc>https://xxqfamous.github.io/docs/post/</loc>
+    <lastmod>2023-04-06T09:40:50+08:00</lastmod>
+  </url><url>
+    <loc>https://xxqfamous.github.io/docs/about/</loc>
+    <lastmod>2023-04-06T09:39:39+08:00</lastmod>
+  </url><url>
+    <loc>https://xxqfamous.github.io/docs/categories/</loc>
   </url><url>
     <loc>https://xxqfamous.github.io/docs/tags/</loc>
   </url>
